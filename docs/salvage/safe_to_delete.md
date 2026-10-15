@@ -20,7 +20,7 @@ This page lists each large item in the old working folder `~/Documents/learn-cla
 | `pannuke/` code and notes | under 1 MB | UNIQUE | git `pannuke/` | Yes |
 | `htan1_examples/` | 1.3 GB | INPUT | HTAN Synapse IDs in `data/htan1_examples_manifest.csv` | Yes |
 | `classpose/` | 60 MB | INPUT | GitHub `sohmandal/classpose` at `617508c`, weights on Hugging Face. Local scripts are in `patches/`. | Yes |
-| `nf-classpose/` | 25 MB | COPIED | GitHub `adamjtaylor/nf-classpose`; example run record in `pipeline/example_run/` | Yes. Revoke the Seqera token in `example_run/logs/` first. |
+| `nf-classpose/` | 25 MB | COPIED | GitHub `ncihtan/nf-classpose`; example run record in `pipeline/example_run/` | Yes. Revoke the Seqera token in `example_run/logs/` first. |
 | `output/` | 9 MB | JUNK | Test outputs on a public slide | Yes |
 | `first_plan.txt`, `htan_study_plan.md` | 108 KB | UNIQUE | `docs/sessions.md` (summary), git `docs/htan_study_plan.md` | Yes |
 | `.claude/`, `.DS_Store`, `__pycache__/` | small | JUNK | | Yes |
