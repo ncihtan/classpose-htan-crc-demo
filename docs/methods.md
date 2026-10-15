@@ -8,9 +8,9 @@ Forty patients with colorectal adenocarcinoma were drawn from the HTAN HMS atlas
 
 ### nf-classpose pipeline
 
-Cell segmentation and classification were performed using ClassPose (v1.0.0) via **nf-classpose** (github.com/adamjtaylor/nf-classpose), a Nextflow wrapper that handles WSI ingestion, tiling, inference, and output aggregation. The pipeline was executed on AWS Batch via Seqera Platform (run name: `maniac_panini_4`; resumed from session `5293201e-0771-47a2-bf8a-c3b06a1767fe`) on 27 January 2026.
+Cell segmentation and classification were performed using ClassPose (v1.0.0) via **nf-classpose** (github.com/ncihtan/nf-classpose), a Nextflow wrapper that handles WSI ingestion, tiling, inference, and output aggregation. The pipeline was executed on AWS Batch via Seqera Platform (run name: `maniac_panini_4`; resumed from session `5293201e-0771-47a2-bf8a-c3b06a1767fe`) on 27 January 2026.
 
-**Input manifest:** `https://raw.githubusercontent.com/adamjtaylor/nf-classpose/refs/heads/main/test/htan_hms_crc_he_41.csv`
+**Input manifest:** `https://raw.githubusercontent.com/ncihtan/nf-classpose/refs/heads/main/test/htan_hms_crc_he_41.csv`
 
 **Key pipeline parameters:**
 
@@ -30,7 +30,7 @@ Cell segmentation and classification were performed using ClassPose (v1.0.0) via
 **Compute resources (AWS Batch):**
 - GPU processes: 8 CPUs, 128 GB RAM, 1 GPU accelerator, 8 h wall time
 - Default processes: 4 CPUs × attempt, 16 GB × attempt, 4 h × attempt (max 2 retries)
-- Container: `ghcr.io/adamjtaylor/nf-classpose:latest`
+- Container: `ghcr.io/ncihtan/nf-classpose:latest`
 - Region: `us-east-1`
 
 Outputs were written to `s3://htan-project-tower-bucket/nf-classpose/outputs/htan_hms_crc_he_41_dual_model/`. Pipeline execution report, trace, and DAG are stored at the same location under `pipeline_info/`.

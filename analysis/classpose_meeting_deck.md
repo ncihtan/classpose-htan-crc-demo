@@ -22,7 +22,7 @@
 - Pipeline executed on AWS Batch via Seqera Platform (run date: 27 January 2026; 3 attempts, final resumed from cache)
 - **164 tasks total:** 41 GEN3_DOWNLOAD + 41 VIPS_CONVERT + 82 CLASSPOSE_PREDICT_WSI (41 slides × 2 models)
 - ClassPose GPU tasks: ~1–4 h wall time per slide, peak RAM ~40–45 GB; run to completion without manual intervention
-- Source: **github.com/adamjtaylor/nf-classpose**
+- Source: **github.com/ncihtan/nf-classpose**
 
 ---
 

@@ -24,7 +24,7 @@ The original working folder was `~/Documents/learn-classpose` on Adam's laptop (
 
 | Item | Size | Where it lives |
 |---|---|---|
-| nf-classpose outputs: VIPS tifs, cell contour and centroid geojsons, tissue contours, `versions.yml`, reports | 234 GB | `s3://htan-project-tower-bucket/nf-classpose/outputs/htan_hms_crc_he_41_dual_model/`, listed in `pipeline/s3_manifest.tsv` |
+| nf-classpose outputs: VIPS tifs, cell contour and centroid geojsons, tissue contours, `versions.yml`, reports | 257 GB, including 82 zarrs | `s3://htan-project-tower-bucket/nf-classpose/outputs/htan_hms_crc_he_41_dual_model/`, listed in `pipeline/s3_manifest.tsv` |
 | SpatialData zarrs (41 CoNSeP and 1 CoNIC) | about 16 GB | Synapse `syn77984172/spatialdata_zarr` and S3 |
 | HTA7_954 slide used by figures 2 and 3 | 1.9 GB | Synapse `reference_slide` and S3 |
 | Single-slide CoNIC run, morphometrics and hierarchical classification parquets | about 1 GB | Synapse `single_slide_conic_run` |
@@ -42,4 +42,4 @@ The original working folder was `~/Documents/learn-classpose` on Adam's laptop (
 
 - Six entries in `docs/figure_map.tsv` have no matching script (`unknown`).
 - Three plot scripts read the v1 immune phenotype CSV (`immune_phenotype_classification.csv`), while the docs use v2. Both CSVs are in `analysis/data/`.
-- The S3 output listing was last checked in January 2026 (`pipeline/s3_manifest.tsv`). We could not check it again during the salvage, because the AWS login had expired.
+- We checked the S3 listing against `pipeline/s3_manifest.tsv` on 2026-10-15. Every file is present with the same size, and 41 of the 42 local zarrs match S3 file for file. The 42nd, the local CoNIC zarr for `06CED89D`, held only the centroids. Its Synapse copy is partial in the same way, and the full zarr is on S3.
