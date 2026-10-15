@@ -1,0 +1,17 @@
+[project]
+name = "pannuke"
+version = "0.1.0"
+description = "PanNuke x Classpose training pipeline"
+requires-python = ">=3.13"
+dependencies = [
+    "classpose @ git+https://github.com/sohmandal/classpose@main",
+    "datasets",
+    "pillow",
+    "numpy",
+    "torch",
+    "tqdm",
+    "scikit-learn",
+    "matplotlib",
+    "jupyter",
+    "google-cloud-aiplatform",
+]

@@ -1,0 +1,7 @@
+region,cell_class,count,density
+tissue,Other,42111,119.88131846285485
+tissue,Inflammatory,688417,1959.7809981297796
+tissue,Healthy epithelial,41399,117.85440153507939
+tissue,Malignant epithelial,648118,1845.058069376376
+tissue,Stroma,697162,1984.6762067441005
+tissue,Muscle,132129,376.143970154557

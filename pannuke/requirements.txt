@@ -1,0 +1,7 @@
+git+https://github.com/sohmandal/classpose
+datasets
+Pillow
+numpy
+torch
+tqdm
+scikit-learn

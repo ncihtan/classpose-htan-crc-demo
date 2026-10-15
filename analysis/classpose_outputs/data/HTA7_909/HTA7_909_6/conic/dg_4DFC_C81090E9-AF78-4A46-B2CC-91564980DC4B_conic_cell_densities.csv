@@ -1,0 +1,7 @@
+region,cell_class,count,density
+tissue,Neutrophil,421,0.9852640372103572
+tissue,Epithelial,247639,579.5482206905834
+tissue,Lymphocyte,54480,127.49925118104575
+tissue,Plasma cell,12968,30.348940699629246
+tissue,Eosinophil,1070,2.504115248966941
+tissue,Connective,439087,1027.5929460963994

@@ -1,0 +1,2 @@
+"CLASSPOSE_PREDICT_WSI":
+    classpose: usage: classpose-predict-wsi [-h] --model_config MODEL_CONFIG

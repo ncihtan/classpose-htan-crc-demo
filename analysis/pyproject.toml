@@ -1,0 +1,19 @@
+[project]
+name = "htan-hms-crc-he-41-dual-mode"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.13"
+dependencies = [
+    "fast-hdbscan>=0.2.2",
+    "lifelines>=0.29.0",
+    "matplotlib>=3.10.8",
+    "openslide-bin>=4.0.0.11",
+    "openslide-python>=1.4.3",
+    "pandas>=3.0.0",
+    "scikit-learn>=1.6.0",
+    "scipy>=1.17.0",
+    "seaborn>=0.13.2",
+    "spatialdata>=0.6.1",
+    "squidpy>=1.7.0",
+    "tqdm>=4.67.0",
+]

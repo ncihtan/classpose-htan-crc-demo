@@ -1,0 +1,97 @@
+HTAN_Participant_ID,Days_to_Treatment_Start,Component,Chemo_Concurrent_to_Radiation,Initial_Disease_Status,Treatment_Effect,Therapeutic_Agents,Number_of_Cycles,Treatment_Type,Id,Days_to_Treatment_End,Treatment_Effect_Indicator,Treatment_Arm,Treatment_or_Therapy,entityId,Regimen_or_Line_of_Therapy,Treatment_Anatomic_Site,Reason_Treatment_Ended,Treatment_Dose,Treatment_Frequency,Treatment_Intent_Type,Treatment_Dose_Units,Treatment_Outcome,HTAN_Center,Manifest_Id,Manifest_Version
+HTA7_926,,Therapy,,Initial Diagnosis,,,,,d21b6fd2-bbe5-455f-a902-1cf48ce1bb04,,,,no,syn26546844,,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_927,,Therapy,,Initial Diagnosis,,"Leucovorin Calcium, Fluorouracil, Oxaliplatin",,Chemotherapy,ee319756-434c-4a13-bb89-0c1a90399e8e,,,,yes,syn26546845,FOLFOX,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_932,,Therapy,,Initial Diagnosis,,"Leucovorin Calcium, Fluorouracil, Oxaliplatin",,Chemotherapy,889f32d8-03bb-49c1-8b7a-1e98c465a411,,,,yes,syn26546846,FOLFOX,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_934,,Therapy,yes,Initial Diagnosis,,"Leucovorin Calcium, Fluorouracil, Oxaliplatin",,Chemotherapy,7fd98476-cd88-451e-b45e-584e8636e793,,,,yes,syn26546847,FOLFOX,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_966,,Therapy,yes,Initial Diagnosis,,"CI, Fluorouracil",,Chemotherapy,62800a24-8382-422b-82b4-4cd269ab128d,,,,yes,syn26546848,,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_947,,Therapy,,Initial Diagnosis,,"Leucovorin Calcium, Fluorouracil, Oxaliplatin",,Chemotherapy,100de62a-94e4-4b4d-b401-8c01dd5a4ab6,,,,yes,syn26546849,FOLFOX,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_989,,Therapy,,Initial Diagnosis,,"Leucovorin Calcium, Fluorouracil, Oxaliplatin, Bevacizumab",,Chemotherapy,dfaf5e13-fd24-44e7-8469-5aca2eaf3f3c,,,,yes,syn26546850,FOLFOX,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_920,,Therapy,,Initial Diagnosis,,"Leucovorin Calcium, Fluorouracil, Oxaliplatin",,Chemotherapy,8cffc2bd-c849-4425-ab7a-b848d0660288,,,,yes,syn26546851,FOLFOX,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_922,,Therapy,,Initial Diagnosis,,"Leucovorin Calcium, Fluorouracil, Oxaliplatin, Bevacizumab",,Chemotherapy,f79a8a4b-2981-4be6-8a88-4d9a54651e6c,,,,yes,syn26546852,FOLFOX,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_931,,Therapy,,Initial Diagnosis,,"Leucovorin Calcium, Fluorouracil, Oxaliplatin",,Chemotherapy,3e67e849-91db-483d-9ec4-b0275f93fb2e,,,,yes,syn26546853,FOLFOX,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_940,,Therapy,,Initial Diagnosis,,"Leucovorin Calcium, Fluorouracil, Oxaliplatin, Bevacizumab",,Chemotherapy,ee2b2fff-5187-4a30-9ad4-461460b8b870,,,,yes,syn26546854,FOLFOX,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_963,,Therapy,,Initial Diagnosis,,"Leucovorin Calcium, Fluorouracil, Oxaliplatin",,Chemotherapy,cd213d36-3721-4d83-b800-702573bc2993,,,,yes,syn26546855,FOLFOX,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_972,,Therapy,,Initial Diagnosis,,"Leucovorin Calcium, Fluorouracil, Oxaliplatin, Bevacizumab",,Chemotherapy,fe8ebefa-db76-4217-a03b-dc5164ed7cc7,,,,yes,syn26546856,FOLFOX,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_925,,Therapy,,Initial Diagnosis,,"Leucovorin Calcium, Fluorouracil, Oxaliplatin",,Chemotherapy,ec7a86a2-7933-45f6-be96-de192f1a44bb,,,,yes,syn26546857,FOLFOX,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_982,,Therapy,,Recurrent Disease,,"Leucovorin Calcium, Fluorouracil, Oxaliplatin",,Chemotherapy,8e7bfb10-9e2f-415f-bfe3-da13277ed44a,,,,yes,syn26546858,FOLFOX,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_965,,Therapy,,Initial Diagnosis,,"Leucovorin Calcium, Fluorouracil, Oxaliplatin",,Chemotherapy,94a21515-4e6f-4307-be0b-f3836a63d18b,,,,yes,syn26546859,FOLFOX,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_995,,Therapy,yes,,,"Leucovorin Calcium, Fluorouracil, Oxaliplatin",,Chemotherapy,4eef1455-a0cc-4cd3-acf4-afb718f93e64,,,,yes,syn26708521,FOLFOX,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_911,,Therapy,,,,,,,8cbf55a3-b5a3-412f-b18a-e6e0b605c159,,,,no,syn26708522,,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_912,,Therapy,,,,"Leucovorin Calcium, Fluorouracil, Oxaliplatin",,Chemotherapy,edee507b-886f-47a2-8d09-3e90cf5378a0,,,,yes,syn26708523,FOLFOX,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_913,,Therapy,,,,"Leucovorin Calcium, Fluorouracil, Irinotecan Hydrochloride, Bevacizumab",,Chemotherapy,cd4850fd-5d1d-4deb-9ef1-c7a7a5f384fd,,,,yes,syn26708524,FOLFIRI,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_914,,Therapy,,,,"Fluorouracil, Leucovorin, Cepcitabine",,Chemotherapy,34bfb70d-4354-40c4-a429-389ff0dbc833,,,,yes,syn26708525,,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_915,,Therapy,,,,"Fluorouracil, Leucovorin",,Chemotherapy,3f3ca2f7-22b5-41af-9c4e-a1f2e3af2c54,,,,yes,syn26708526,,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_916,,Therapy,,,,,,,22800947-c1da-482f-a695-c13c77d2a4e1,,,,no,syn26708527,,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_917,,Therapy,,,,,,,f51ee8bb-a02c-423d-8023-fa0a11903a76,,,,no,syn26708528,,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_918,,Therapy,,,,"Fluorouracil, Leucovorin",,Chemotherapy,4a691a56-c55f-4bdc-8e35-77ec465b508d,,,,yes,syn26708529,,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_919,,Therapy,,,,,,,e5be5545-45d8-42d9-9984-4f79ea0cfdd5,,,,no,syn26708530,,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_921,,Therapy,,,,"Leucovorin Calcium, Fluorouracil, Irinotecan Hydrochloride, Bevacizumab",,Chemotherapy,907969e2-f8eb-46d3-8e64-43425a88678f,,,,yes,syn26708531,FOLFIRI,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_923,,Therapy,,,,"Leucovorin Calcium, Fluorouracil, Irinotecan Hydrochloride, Bevacizumab",,Chemotherapy,9d5914a8-e546-4c79-b8b3-cbe5968995bc,,,,yes,syn26708532,FOLFIRI,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_924,,Therapy,,,,,,,a7ae2345-2344-42b0-8439-638d68a12fcc,,,,no,syn26708533,,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_928,,Therapy,,,,"Leucovorin Calcium, Fluorouracil, Irinotecan Hydrochloride, Bevacizumab, Trifluridine, Tipiracil",,Chemotherapy,d03272c7-672b-49b5-a3c5-e39114de6a12,,,,yes,syn26708534,FOLFIRI,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_929,,Therapy,,,,,,,1f63baad-14ea-4bb3-927c-31506dd803e9,,,,no,syn26708535,,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_930,,Therapy,,,,"Leucovorin Calcium, Fluorouracil, Oxaliplatin",,Chemotherapy,1d65012b-69af-41c0-82f2-45849afac6d4,,,,yes,syn26708536,FOLFOX,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_904,,Therapy,,,,"Leucovorin Calcium, Fluorouracil, Oxaliplatin, Panitumumab",,Chemotherapy,8bfc373d-554b-4f49-989d-bd8d24d9b609,,,,yes,syn26708537,FOLFOX,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_933,,Therapy,,,,"Leucovorin Calcium, Fluorouracil, Oxaliplatin",,Chemotherapy,0270a59e-d413-4f91-b7b6-479d5291f3a6,,,,yes,syn26708538,FOLFOX,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_935,,Therapy,,,,,,,19e52f14-70a8-427c-9531-110cc7534c0b,,,,no,syn26708539,,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_936,,Therapy,,,,"Leucovorin Calcium, Fluorouracil, Oxaliplatin",,Chemotherapy,d77e6506-d29f-436e-90aa-01ef0ebf59d9,,,,yes,syn26708540,FOLFOX,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_937,,Therapy,yes,,,"Leucovorin Calcium, Fluorouracil, Oxaliplatin, Irinotecan Hydrochloride, Xeloda",,Chemotherapy,099dfe2e-5adc-4d57-8915-3d97978aaf11,,,,yes,syn26708541,FOLFOXIRI,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_938,,Therapy,yes,,,"Leucovorin Calcium, Fluorouracil, Oxaliplatin",,Chemotherapy,b761ec5e-3e0b-4b29-8f3d-d0929c3fc25c,,,,yes,syn26708542,FOLFOX,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_939,,Therapy,,,,,,,27b897ee-02cb-4962-ac30-b87bf34d9450,,,,no,syn26708543,,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_905,,Therapy,,,,"Leucovorin Calcium, Fluorouracil, Oxaliplatin",,Chemotherapy,7b6e4f78-bc8f-4509-ab1e-17a45ec2293c,,,,yes,syn26708544,FOLFOX,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_941,,Therapy,,,,"Leucovorin Calcium, Fluorouracil, Oxaliplatin",,Chemotherapy,59b6efc6-e621-42ea-9033-7b3e3c0a0f5f,,,,yes,syn26708545,FOLFOX,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_942,,Therapy,,,,,,,dd83acba-92ed-49ce-88ca-3e7ddf44845b,,,,no,syn26708546,,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_943,,Therapy,,,,,,,978a50ce-221e-4cba-b524-34c8bc735c75,,,,no,syn26708547,,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_944,,Therapy,,,,Capecitabine,,Chemotherapy,b6b5e527-ee17-4469-84f9-3d31af03bdc2,,,,yes,syn26708548,,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_945,,Therapy,,,,,,,bcd7c2c4-22ab-47bc-a714-9bed176afd07,,,,no,syn26708549,,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_946,,Therapy,,,,,,,e100b983-8cd3-45d6-a77d-0d0246679723,,,,no,syn26708550,,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_948,,Therapy,,,,,,,7f05aa10-7b33-4b90-bc74-338a7742e18b,,,,no,syn26708551,,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_949,,Therapy,,,,"Fluorouracil, Leucovorin Calcium",,Chemotherapy,4b111e60-b394-4f27-8e5c-a1e45b0629d4,,,,yes,syn26708552,,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_950,,Therapy,,,,Capecitabine,,Chemotherapy,7478f2bb-9cc9-448c-8ed6-219d8bd014eb,,,,yes,syn26708553,,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_906,,Therapy,,,,"Leucovorin Calcium, Fluorouracil, Oxaliplatin",,Chemotherapy,4d1dae4a-485f-40be-b7e5-44017d1da104,,,,yes,syn26708554,FOLFOX,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_951,,Therapy,yes,,,"Leucovorin Calcium, Fluorouracil, Oxaliplatin",,Chemotherapy,fd580a3f-c2b3-49cc-9828-36252c73a239,,,,yes,syn26708555,FOLFOX,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_952,,Therapy,,,,,,,5202dc37-0abe-4d6a-b04b-73b8ff9ec7ee,,,,no,syn26708556,,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_953,,Therapy,,,,,,,4ad1ee85-f15d-4838-9ecd-70b89abcbba0,,,,no,syn26708557,,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_954,,Therapy,yes,,,"Fluorouracil, Leucovorin Calcium, Capecitabine",,Chemotherapy,8cd351fc-81ce-4c07-9461-0321e97e4fbf,,,,yes,syn26708558,,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_955,,Therapy,,,,,,,6b132d7e-314e-4027-87ad-6ebd54e92456,,,,no,syn26708559,,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_956,,Therapy,,,,"Leucovorin Calcium, Fluorouracil, Oxaliplatin",,Chemotherapy,025a7834-73c4-4376-aa93-81cf8043070b,,,,yes,syn26708560,FOLFOX,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_957,,Therapy,yes,,,"Fluorouracil, Leucovorin Calcium",,Chemotherapy,8fc5957a-d1dc-4065-a853-8024deaefe6b,,,,yes,syn26708561,,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_958,,Therapy,,,,,,,892a8f48-3bfb-4551-a3cc-d54866646a6a,,,,no,syn26708562,,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_959,,Therapy,,,,,,,0cfea4e8-a856-4064-bc01-78fbc8eb4cd0,,,,no,syn26708563,,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_960,,Therapy,,,,"Leucovorin Calcium, Fluorouracil, Oxaliplatin",,Chemotherapy,d77b1c8e-2ef9-4699-b9a9-35a6b698f52b,,,,yes,syn26708564,FOLFOX,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_907,,Therapy,,,,"Leucovorin Calcium, Fluorouracil, Oxaliplatin",,Chemotherapy,9ce38a54-09c4-406a-ba98-cd30fe528186,,,,yes,syn26708565,FOLFOX,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_961,,Therapy,,,,,,,d7edcfb2-f3f6-4aaf-b991-e59899e3df09,,,,no,syn26708566,,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_962,,Therapy,,,,Not reported,,Not Reported,4669aa5e-f6ed-4711-b126-3238e5ae7d53,,,,Not Reported,syn26708567,Not reported,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_964,,Therapy,,,,Not reported,,Not Reported,acebdf23-4a64-4290-b8aa-9383888949b2,,,,Not Reported,syn26708568,Not reported,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_967,,Therapy,,,,"Leucovorin Calcium, Fluorouracil, Oxaliplatin",,Chemotherapy,9feece73-d78a-4221-a455-ea78d53d3810,,,,yes,syn26708569,FOLFOX,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_968,,Therapy,,,,"Leucovorin Calcium, Fluorouracil, Oxaliplatin, Bevacizumab",,Chemotherapy,d7e934bc-f169-44d6-9a05-0fa864be840d,,,,yes,syn26708570,FOLFOX,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_969,,Therapy,,,,,,,ffba6eaf-92ea-4109-9ca2-b9cb5ae9d553,,,,no,syn26708571,,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_970,,Therapy,,,,"Leucovorin Calcium, Fluorouracil, Oxaliplatin, Fluorouracil, Leucovorin Calcium",,Chemotherapy,a895af36-a9b7-4bca-9e41-f1e91e8cb1d0,,,,yes,syn26708572,FOLFOX,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_908,,Therapy,,,,"Leucovorin Calcium, Fluorouracil, Oxaliplatin",,Chemotherapy,6222f148-ee90-45b4-880e-3780c9a88fb0,,,,yes,syn26708573,FOLFOX,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_971,,Therapy,,,,,,,2a40f40c-113a-4f61-9c74-3b01971f9af6,,,,no,syn26708574,,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_973,,Therapy,,,,"Leucovorin Calcium, Fluorouracil, Oxaliplatin",,Chemotherapy,6fbc7911-6a65-467c-b238-6319c173e677,,,,yes,syn26708575,FOLFOX,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_974,,Therapy,,,,,,,f53bd862-2c68-4454-be5f-78ff0d012510,,,,no,syn26708576,,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_975,,Therapy,,,,"Capecitabine, Leucovorin Calcium, Fluorouracil, Oxaliplatin",,Chemotherapy,f77b15b2-ab05-4742-8616-28a99c9975e8,,,,yes,syn26708577,,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_976,,Therapy,,,,,,,e80aa580-59e3-4863-9a20-47eefd94461d,,,,no,syn26708578,,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_977,,Therapy,,,,,,,9649ca6c-bd29-4c8e-aa3a-496f260e247c,,,,no,syn26708579,,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_978,,Therapy,,,,"Fluorouracil, Leucovorin Calcium",,Chemotherapy,680c5189-68a6-46f3-a4d2-b4451d4e7e85,,,,yes,syn26708580,,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_979,,Therapy,,,,,,,0d80be67-b5a3-4afa-9c52-d0b710ae3d2f,,,,no,syn26708581,,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_980,,Therapy,,,,,,,d3babc64-2503-46a0-aa28-54fbd7925681,,,,no,syn26708582,,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_909,,Therapy,,,,"Leucovorin Calcium, Fluorouracil, Oxaliplatin",,Chemotherapy,705ce019-23c1-4db6-9f0d-6574aba02d8e,,,,yes,syn26708583,FOLFOX,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_981,,Therapy,,,,Capecitabine,,Chemotherapy,fdaf778a-0868-4b93-a0d1-e63470aa020e,,,,yes,syn26708584,,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_983,,Therapy,,,,,,,0d505cc1-ffa1-44b7-9304-0760268a159b,,,,no,syn26708585,,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_984,,Therapy,,,,"Leucovorin Calcium, Fluorouracil, Oxaliplatin",,Chemotherapy,2b43b56e-eec1-40b8-a891-814a86779cbc,,,,yes,syn26708586,FOLFOX,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_985,,Therapy,,,,"Leucovorin Calcium, Fluorouracil, Oxaliplatin",,Chemotherapy,457889f6-7fa9-4230-ad66-e7098521060f,,,,yes,syn26708587,FOLFOX,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_986,,Therapy,,,,,,,ab66ccd7-ac9d-48ae-8ce6-6c1771cbb754,,,,no,syn26708588,,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_987,,Therapy,,,,"Leucovorin Calcium, Fluorouracil, Oxaliplatin, Bevacizumab",,Chemotherapy,640c75f2-df4d-414c-841b-2892f3990210,,,,yes,syn26708589,FOLFOX,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_988,,Therapy,,,,,,,8d5e03b0-0407-4f1e-832b-5d13f9f4581b,,,,no,syn26708590,,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_990,,Therapy,,,,"Leucovorin Calcium, Fluorouracil, Oxaliplatin",,Chemotherapy,6446c6fc-1c94-4546-9a13-87f0c506f33b,,,,yes,syn26708591,FOLFOX,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_910,,Therapy,,,,"Leucovorin Calcium, Fluorouracil, Oxaliplatin",,Chemotherapy,016ab9c8-8a5b-421e-904c-36aeeb5e288e,,,,yes,syn26708592,FOLFOX,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_991,,Therapy,,,,,,,e0130c4d-2c43-4264-8222-fa00bd0ea74f,,,,no,syn26708593,,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_992,,Therapy,,,,"Leucovorin Calcium, Fluorouracil, Oxaliplatin",,Chemotherapy,12300fdd-2564-4ba4-917c-8fdca768ff29,,,,yes,syn26708594,FOLFOX,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_993,,Therapy,,,,"Leucovorin Calcium, Fluorouracil, Oxaliplatin",,Chemotherapy,775d31b1-3014-4672-8c38-0f9b578cfa4f,,,,yes,syn26708595,FOLFOX,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_994,,Therapy,yes,,,"Leucovorin Calcium, Fluorouracil, Oxaliplatin",,Chemotherapy,a0668fef-4df1-4350-8db5-8492aa233ba9,,,,yes,syn26708596,FOLFOX,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_996,,Therapy,,,,,,Chemotherapy,ada4faf7-a4bb-44f2-9d6b-3871cdb0c79f,,,,yes,,FOLFOX,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_997,,Therapy,,,,,,Chemotherapy,58db063e-b88b-4dd3-9a72-5f18db329cb6,,,,yes,,Capecitabine,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_998,,Therapy,,,,,,Chemotherapy,e87eb8b9-af77-4f47-84d5-233a37734d16,,,,yes,,FOLXFOXIRI,,,,,,,,HTAN HMS,syn39143602,6
+HTA7_999,,Therapy,,,,,,,83fdb9f9-931d-4e82-b709-26ad79b87952,,,,no,,,,,,,,,,HTAN HMS,syn39143602,6

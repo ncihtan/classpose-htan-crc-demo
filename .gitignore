@@ -1,0 +1,28 @@
+# data
+*.zarr/
+*.zarr
+*.tif
+*.tiff
+*.ome.tif
+*.geojson
+*.npy
+*.npz
+*.h5
+*.h5ad
+*.parquet
+*.pt
+*.pth
+*.ckpt
+sample_data/
+checkpoints/
+work/
+.nextflow*
+# env
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+.DS_Store
+.claude/settings.local.json
+_private/

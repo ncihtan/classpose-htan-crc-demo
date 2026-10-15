@@ -1,0 +1,17 @@
+# Reconstructed, not the original. The params file for this run was a temporary
+# Seqera upload and was not saved. Values come from the outputs in S3
+# (two models, VIPS tifs saved, csv + spatialdata outputs) and the nf-classpose
+# defaults at commit dcb0452.
+input: samplesheet_htan_hms_crc_he_41.csv
+outdir: s3://htan-project-tower-bucket/nf-classpose/outputs/htan_hms_crc_he_41_dual_model
+models: [conic, consep]
+output_type: csv spatialdata
+vips_save: true
+vips_compression: jpeg
+filter_artefacts: false
+batch_size: 8
+tile_size: 1024
+overlap: 64
+gen3_profile: htan
+gen3_api_endpoint: https://nci-crdc.datacommons.io
+# gen3_credentials: path to your ~/.gen3/credentials.json

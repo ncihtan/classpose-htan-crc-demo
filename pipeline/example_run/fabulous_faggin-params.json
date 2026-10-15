@@ -1,0 +1,18 @@
+{
+    "tta": false,
+    "batch_size": 8,
+    "tissue_detection_model_path": "/root/.grandqc_models/tissue/Tissue_Detection_MPP10.pth",
+    "output_type": "csv spatialdata",
+    "bf16": false,
+    "gen3_credentials": "s3://htan-project-tower-bucket/nf-classpose/credentials.json",
+    "outdir": "s3://htan-project-tower-bucket/nf-classpose/outputs/drs_test/",
+    "artefact_detection_model_path": "/root/.grandqc_models/artefact/GrandQC_MPP15.pth",
+    "gen3_profile": "htan",
+    "input": "https://raw.githubusercontent.com/adamjtaylor/nf-classpose/refs/heads/main/test/drs_samplesheet.csv",
+    "gen3_api_endpoint": "https://nci-crdc.datacommons.io",
+    "model_config": "conic",
+    "overlap": 64,
+    "vips_compression": "jpeg",
+    "filter_artefacts": false,
+    "tile_size": 1024
+}

@@ -1,0 +1,2 @@
+sample_id,conic_total,consep_total,n_matched,n_centroid_only,n_iou_only,n_both,conic_match_rate,consep_match_rate,mean_distance_px,median_distance_px,mean_distance_um,median_distance_um,mean_iou,median_iou
+dg_4DFC_06CED89D-6754-40E2-A418-4F2C288119A2,785617,971952,750534,5412,8255,736867,0.9553433797893884,0.7721924539483431,1.0460716933347536,0.5323532661673609,0.3399733003337949,0.1730148115043923,0.7979957905503479,0.833168799755977
