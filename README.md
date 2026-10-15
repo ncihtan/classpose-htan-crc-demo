@@ -24,7 +24,7 @@ Start with [`analysis/classpose_meeting_deck.md`](analysis/classpose_meeting_dec
 | Input H&E images (HTAN Level 2 OME-TIFF, open access) | CRDC, by DRS URI: [`analysis/metadata/files_drs.csv`](analysis/metadata/files_drs.csv) | 41 files |
 | Clinical, biospecimen and mutation tables (HTAN open-access tier) | [`analysis/metadata/`](analysis/metadata/) | under 1 MB |
 | nf-classpose outputs (tifs, geojsons, csvs) | `s3://htan-project-tower-bucket/nf-classpose/outputs/htan_hms_crc_he_41_dual_model/`, listed in [`pipeline/s3_manifest.tsv`](pipeline/s3_manifest.tsv) | 257 GB, including 82 zarrs |
-| SpatialData zarrs and other files the analysis needs | Synapse [syn77984172](https://www.synapse.org/Synapse:syn77984172), listed in [`data/synapse_manifest.tsv`](data/synapse_manifest.tsv) | about 21 GB |
+| SpatialData zarrs and other files the analysis needs | Synapse [syn77984172](https://www.synapse.org/Synapse:syn77984172), listed in [`data/synapse_manifest.tsv`](data/synapse_manifest.tsv) | 17.9 GB, 53 files |
 | Per-slide cell density CSVs and derived tables | [`analysis/classpose_outputs/`](analysis/classpose_outputs/), [`analysis/data/`](analysis/data/) | small |
 | Compute | nf-classpose on Seqera Platform, AWS Batch GPU spot, January 2026 | see [`pipeline/`](pipeline/) |
 

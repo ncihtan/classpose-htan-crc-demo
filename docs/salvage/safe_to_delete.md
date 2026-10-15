@@ -25,8 +25,12 @@ This page lists each large item in the old working folder `~/Documents/learn-cla
 | `first_plan.txt`, `htan_study_plan.md` | 108 KB | UNIQUE | `docs/sessions.md` (summary), git `docs/htan_study_plan.md` | Yes |
 | `.claude/`, `.DS_Store`, `__pycache__/` | small | JUNK | | Yes |
 
-Total: about 31 GB, all of it safe to delete once the upload below is complete.
+Total: about 31 GB. All of it is safe to delete.
 
 ## Upload status
 
-Filled in after the Synapse upload finished.
+Done on 2026-10-15. We uploaded 53 files (17.9 GB) to Synapse [syn77984172](https://www.synapse.org/Synapse:syn77984172). For all 53, the MD5 and size Synapse recorded match the local file. We also downloaded one zarr zip again and checked that its contents match the source folder file for file. The `.zip` MD5s cover the zips, not the original zarr folders.
+
+The S3 output listing was checked the same day. All 460 files in `pipeline/s3_manifest.tsv` are present with the same size, along with 82 zarrs (22.6 GB).
+
+One local zarr, `dg_4DFC_06CED89D-..._conic_spatialdata.zarr`, held only `points/cell_centroids`. Its Synapse copy is partial in the same way, and the full zarr is on S3.
